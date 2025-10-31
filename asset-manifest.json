@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payment-method/static/css/main.e6c13ad2.css",
+    "main.js": "/payment-method/static/js/main.81c6a210.js",
+    "static/js/453.65b3f0da.chunk.js": "/payment-method/static/js/453.65b3f0da.chunk.js",
+    "index.html": "/payment-method/index.html",
+    "main.e6c13ad2.css.map": "/payment-method/static/css/main.e6c13ad2.css.map",
+    "main.81c6a210.js.map": "/payment-method/static/js/main.81c6a210.js.map",
+    "453.65b3f0da.chunk.js.map": "/payment-method/static/js/453.65b3f0da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.81c6a210.js"
+  ]
+}
