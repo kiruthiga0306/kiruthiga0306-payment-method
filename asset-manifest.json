@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kiruthiga0306/kiruthiga0306-payment-method/static/css/main.e6c13ad2.css",
-    "main.js": "/kiruthiga0306/kiruthiga0306-payment-method/static/js/main.4f37b4a2.js",
-    "static/js/453.65b3f0da.chunk.js": "/kiruthiga0306/kiruthiga0306-payment-method/static/js/453.65b3f0da.chunk.js",
-    "index.html": "/kiruthiga0306/kiruthiga0306-payment-method/index.html",
-    "main.e6c13ad2.css.map": "/kiruthiga0306/kiruthiga0306-payment-method/static/css/main.e6c13ad2.css.map",
-    "main.4f37b4a2.js.map": "/kiruthiga0306/kiruthiga0306-payment-method/static/js/main.4f37b4a2.js.map",
-    "453.65b3f0da.chunk.js.map": "/kiruthiga0306/kiruthiga0306-payment-method/static/js/453.65b3f0da.chunk.js.map"
+    "main.css": "/kiruthiga0306-payment-method/static/css/main.e6c13ad2.css",
+    "main.js": "/kiruthiga0306-payment-method/static/js/main.ecc98f5f.js",
+    "static/js/453.65b3f0da.chunk.js": "/kiruthiga0306-payment-method/static/js/453.65b3f0da.chunk.js",
+    "index.html": "/kiruthiga0306-payment-method/index.html",
+    "main.e6c13ad2.css.map": "/kiruthiga0306-payment-method/static/css/main.e6c13ad2.css.map",
+    "main.ecc98f5f.js.map": "/kiruthiga0306-payment-method/static/js/main.ecc98f5f.js.map",
+    "453.65b3f0da.chunk.js.map": "/kiruthiga0306-payment-method/static/js/453.65b3f0da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4f37b4a2.js"
+    "static/js/main.ecc98f5f.js"
   ]
 }
